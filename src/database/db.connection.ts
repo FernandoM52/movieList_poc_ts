@@ -9,7 +9,7 @@ const db = new Pool({
   host: "localhost",
   port: 5432,
   user: "postgres",
-  password: "Fer@M52", //Alterar para postgres
+  password: "postgres",
   database: "films_ts_poc"
 });
 
